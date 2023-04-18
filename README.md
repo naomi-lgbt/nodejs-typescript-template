@@ -10,19 +10,7 @@ You are welcome to extend and overwrite the configs as you desire (please do not
 
 TypeScript will read from the `src` directory and compile to a `prod` directory. The `test` directory will be ignored by the compiler, but will be linted to ensure the code follows your standards.
 
-### `package.json`
-
-Remember to update the following keys in your `package.json`:
-
-- `name`: The name of your project.
-- `version`: We start our projects at `0.0.0`, following semantic versioning to increment as we go. `1.0.0` should be the first stable production release.
-- `description`: A short description of your project.
-- `author`: Your name, or the name of your organization.
-- `license`: The license you are using for your project. We recommend the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/), but you may use any license you wish.
-- `repository`: The URL to your repository. This should be the URL to the repository, not the URL to the GitHub page.
-- `bugs`: The URL to your repository's issues page.
-- `homepage`: The URL to your repository's GitHub page.
-- `keywords`: An array of keywords that describe your project.
+There is an action that will create an issue on your new repository, with a helpful checklist of the settings we typically update / change.
 
 ## Configurations
 
