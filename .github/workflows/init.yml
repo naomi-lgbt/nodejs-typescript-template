@@ -22,7 +22,7 @@ jobs:
             - [ ] Update the repository about.
               - [ ] Update the description.
               - [ ] Update the website, when live.
-              - [ ] Update the topics (add `hacktoberfest` if applicable).
+              - [ ] Update the topics (add \`hacktoberfest\` if applicable).
               - [ ] Do not include packages or environments (unless deploying on GitHub Pages).
               - [ ] Do not include the releases if you aren't going to keep up with SemVer.
             - [ ] Update the repository settings.
