@@ -1,4 +1,4 @@
-name: "Pull Request Labeller"
+name: "New Repo Checklist"
 on:
   - create
   - workflow_dispatch
