@@ -1,4 +1,44 @@
-# Project Name
+# Node.JS TypeScript Template
+
+This template includes my standard configuration for a Node.js and TypeScript project. The linter and formatter have been configured, as well as the GitHub Actions workflows. A testing framework has also been prepared, using Chai's `assert` API. Our standard logging configuration is also included.
+
+## Usage
+
+To use this template, click the "Use this template" button above. You will be prompted to enter the name of your new repository. Once you have done so, you will be redirected to your new repository.
+
+You are welcome to extend and overwrite the configs as you desire (please do not PR your changes back to this template, these changes will be rejected).
+
+TypeScript will read from the `src` directory and compile to a `prod` directory. The `test` directory will be ignored by the compiler, but will be linted to ensure the code follows your standards.
+
+### `package.json`
+
+Remember to update the following keys in your `package.json`:
+
+- `name`: The name of your project.
+- `version`: We start our projects at `0.0.0`, following semantic versioning to increment as we go. `1.0.0` should be the first stable production release.
+- `description`: A short description of your project.
+- `author`: Your name, or the name of your organization.
+- `license`: The license you are using for your project. We recommend the [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/), but you may use any license you wish.
+- `repository`: The URL to your repository. This should be the URL to the repository, not the URL to the GitHub page.
+- `bugs`: The URL to your repository's issues page.
+- `homepage`: The URL to your repository's GitHub page.
+- `keywords`: An array of keywords that describe your project.
+
+## Configurations
+
+The configuration settings can be found in these repositories:
+
+- [ESLint](https://github.com/naomi-lgbt/eslint-config)
+- [Prettier](https://github.com/naomi-lgbt/prettier-config)
+- [TypeScript](https://github.com/naomi-lgbt/typescript-config)
+
+You are welcome to propose changes to the global configuration via issues on those repositories. However, the configurations are central to all of our projects, so please be prepared to justify your changes.
+
+## Readme
+
+Below this line is the template for a project readme. Delete all of the text above, and uncomment the text below to use the template.
+
+<!--# Project Name
 
 Project Description
 
@@ -6,7 +46,7 @@ Project Description
 
 This page is not yet deployed.
 
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.]()
 
 ## Feedback and Bugs
 
@@ -32,4 +72,4 @@ The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
 
 ## Contact
 
-We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.
+We may be contacted through our [Chat Server](http://chat.nhcarrigan.com) or via email at `contact@nhcarrigan.com`.-->
