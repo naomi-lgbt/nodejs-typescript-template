@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/naomi-lgbt/nodejs-typescript-template#readme",
   "dependencies": {
-    "dotenv": "16.1.1",
+    "dotenv": "16.1.2",
     "winston": "3.9.0"
   },
   "devDependencies": {
