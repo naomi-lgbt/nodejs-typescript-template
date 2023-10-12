@@ -29,8 +29,8 @@ devDependencies:
     specifier: 10.0.2
     version: 10.0.2
   '@types/node':
-    specifier: 18.18.4
-    version: 18.18.4
+    specifier: 18.18.5
+    version: 18.18.5
   chai:
     specifier: 4.3.10
     version: 4.3.10
@@ -216,8 +216,8 @@ packages:
     resolution: {integrity: sha512-NaHL0+0lLNhX6d9rs+NSt97WH/gIlRHmszXbQ/8/MV/eVcFNdeJ/GYhrFuUc8K7WuPhRhTSdMkCp8VMzhUq85w==}
     dev: true
 
-  /@types/node@18.18.4:
-    resolution: {integrity: sha512-t3rNFBgJRugIhackit2mVcLfF6IRc0JE4oeizPQL8Zrm8n2WY/0wOdpOPhdtG0V9Q2TlW/axbF1MJ6z+Yj/kKQ==}
+  /@types/node@18.18.5:
+    resolution: {integrity: sha512-4slmbtwV59ZxitY4ixUZdy1uRLf9eSIvBWPQxNjhHYWEtn0FryfKpyS2cvADYXTayWdKEIsJengncrVvkI4I6A==}
     dev: true
 
   /@types/semver@7.5.0:
